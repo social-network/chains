@@ -1,13 +1,14 @@
 {
     "name": "Social Network",
     "chain": "Social Network",
-    "rpc": ["https://mainnet.social-network-rpc.com"],
+    "rpc": ["https://rpc.social.network"],
     "faucets": [],
     "nativeCurrency": {
       "name": "heart",
       "symbol": "HEART",
       "decimals": 18
     },
+    "status": "incubating",
     "infoURL": "https://social.network",
     "shortName": "social",
     "chainId": 149,

@@ -1,13 +1,14 @@
 {
     "name": "Social Testnet",
     "chain": "Social Testnet",
-    "rpc": ["https://testnet.social-network-rpc.com"],
+    "rpc": ["https://testnet-rpc.social.network"],
     "faucets": [],
     "nativeCurrency": {
       "name": "heart",
       "symbol": "HEART",
       "decimals": 18
     },
+    "status": "incubating",
     "infoURL": "https://social.network",
     "shortName": "earth",
     "chainId": 749,
@@ -16,7 +17,7 @@
     "icon": "earth",
     "explorers": [
       {
-        "name": "The Social Network Testnet",
+        "name": "The Social Testnet",
         "url": "https://testnet.social.network",
         "standard": "none"
       }
